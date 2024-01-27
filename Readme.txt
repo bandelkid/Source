@@ -6,5 +6,5 @@
 * Terapkan layout responsif, dengan menambahkan meta tag viewport
 * Tentukan menu, sub menu, main article dan kontak/profil
 * Jalankan hasilnya pada github kamu dan kirim kan linknya
-*
+* Source yang boleh diambil : Dicoding, W3School, Github
 */
