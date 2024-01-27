@@ -8,3 +8,5 @@
 * Jalankan hasilnya pada github kamu dan kirim kan linknya
 * Source yang boleh diambil : Dicoding, W3School, Github
 */
+
+link absensi https://forms.gle/A1MAn4k8oZpXauHn7
